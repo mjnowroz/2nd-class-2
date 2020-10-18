@@ -1,0 +1,52 @@
+header{
+    height: 100px;
+    background-color: black;
+}
+
+nav{
+    height: 70px;
+    background-color: chocolate;
+}
+
+article{
+    height: 500px;
+    background-color: darkcyan;
+}
+
+.content{
+    height: 600px;
+    
+}
+
+.left{
+    height: 600px;
+    width: 20%;
+    background-color: hotpink;
+    float: left;
+}
+
+.centre{
+    height: 600px;
+    width: 60%;
+    background-color: green;
+    float: left;
+
+}
+
+.right{
+    height: 600px;
+    width: 20%;
+    background-color: hotpink;
+    float: right;
+
+}
+
+div{
+    overflow: hidden;
+}
+
+aside{
+    height: 200px;
+    background-color: darkred;
+}
+
